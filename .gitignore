@@ -5,6 +5,9 @@ make_icon.py
 release.py
 eroter.ico
 *.spec
+CLAUDE.md
+baseplate.rbxl
+baseplate.rbxlx
 
 # Python
 __pycache__/
@@ -17,6 +20,8 @@ venv/
 # PyInstaller
 build/
 dist/
+EroterLocalHost.exe
+Github Releases/
 
 # App-generated runtime files
 eroter_debug.log
