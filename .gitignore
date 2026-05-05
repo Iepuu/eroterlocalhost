@@ -1,0 +1,29 @@
+# Source files — closed source, do not publish
+app.py
+source.py
+make_icon.py
+release.py
+eroter.ico
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+
+# App-generated runtime files
+eroter_debug.log
+eroter_settings.json
+eroterslocalhost_data.json
+mattslocalhost_data.json
+
+# OS
+Thumbs.db
+.DS_Store
